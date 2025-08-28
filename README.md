@@ -30,7 +30,7 @@ This dashboard was designed to support decision-making by visualizing:
 
 ---
 
-## 📸 Dashboard Screenshots
+## 📸 Dashboard
 
 ### Overview Page
 ![Overview Page](./Dashboard/Overview%20Page.png)
