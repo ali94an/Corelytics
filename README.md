@@ -30,16 +30,16 @@ This dashboard was designed to support decision-making by visualizing:
 
 ---
 
-<h2>📸 Dashboard Screenshots</h2>
+## 📸 Dashboard Screenshots
 
-<h3>Overview Page</h3>
-<img src="Dashboard/Overview%20Page.png" alt="Overview Page" width="1100" />
+### Overview Page
+![Overview Page](./Dashboard/Overview%20Page.png)
 
-<h3>Risk Assessment</h3>
-<img src="Dashboard/Risk%20Assessment%20Page.png" alt="Risk Assessment Page" width="1100" />
+### Risk Assessment
+![Risk Assessment Page](./Dashboard/Risk%20Assessment%20Page.png)
 
-<h3>Customers' Profile</h3>
-<img src="Dashboard/Customers'%20Profile%20Page.png" alt="Customers' Profile Page" width="1100" />
+### Customers' Profile
+![Customers' Profile Page](./Dashboard/Customers'%20Profile%20Page.png)
 
 ---
 
