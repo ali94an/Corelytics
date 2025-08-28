@@ -30,16 +30,7 @@ This dashboard was designed to support decision-making by visualizing:
 
 ---
 
-## 📸 Dashboard Screenshots
 
-### Overview Page
-![Overview Page](./Dashboard/Overview%20Page.png)
-
-### Risk Assessment
-![Risk Assessment Page](./Dashboard/Risk%20Assessment%20Page.png)
-
-### Customers' Profile
-![Customers' Profile Page](./Dashboard/Customers'%20Profile%20Page.png)
 
 ---
 
