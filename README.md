@@ -62,5 +62,5 @@ This project was developed as part of a **Hackathon challenge**, focusing on del
 
 ---
 
-## 👤 Author
+## 👤 Authors
 Developed by *Ali Abu Nimah* and *Hagar Mohamed* during Qafza Hackathon 2025.
